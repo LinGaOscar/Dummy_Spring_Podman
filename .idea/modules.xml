@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DummySpring/DummySpring.iml" filepath="$PROJECT_DIR$/DummySpring/DummySpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dummy_Spring_Podman.iml" filepath="$PROJECT_DIR$/.idea/Dummy_Spring_Podman.iml" />
     </modules>
   </component>

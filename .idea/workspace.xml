@@ -5,35 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c7cf08-0e2f-4962-b70e-7c22eedff18c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/DummySpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DummySpring/src/test/java/com/oscar/dummyspring/DummySpringApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_71.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_71.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_71.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_25.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/DummySpringApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/controller/healthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DummySpring/src/test/java/com/oscar/dummyspring/DummySpringApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709736157836</updated>
-      <workItem from="1709736160405" duration="1679000" />
+      <workItem from="1709736160405" duration="2571000" />
     </task>
     <servers />
   </component>
