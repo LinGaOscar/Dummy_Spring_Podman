@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c7cf08-0e2f-4962-b70e-7c22eedff18c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DummySpring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/DummySpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/java/com/oscar/dummyspring/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummySpring/src/test/java/com/oscar/dummyspring/DummySpringApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2dJphnr34CLxoBz1h3OkvhVc15G" />
   <component name="ProjectLevelVcsManager">
@@ -96,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709736157836</updated>
-      <workItem from="1709736160405" duration="2571000" />
+      <workItem from="1709736160405" duration="4054000" />
     </task>
     <servers />
   </component>
